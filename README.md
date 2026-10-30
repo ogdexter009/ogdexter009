@@ -1,16 +1,47 @@
-## Hi there 👋
+👋 Привет! Я OG_Dexter
+💻 Software Engineer | 🌐 Network Engineer
 
-<!--
-**ogdexter009/ogdexter009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я занимаюсь разработкой программного обеспечения и сетевой инженерией. Люблю создавать производительные приложения, разрабатывать backend- и frontend-решения, работать с базами данных и сетевой инфраструктурой.
 
-Here are some ideas to get you started:
+🚀 Технологический стек
+🧑‍💻 Языки программирования
+🐍 Python
+💠 C#
+λ Haskell
+🦀 Rust
+⚡ Q# (Quantum Programming)
+🗄️ Базы данных
+PostgreSQL
+MySQL
+MariaDB
+⚙️ Frameworks & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend:
+
+Django
+
+Frontend:
+
+Vue.js
+Angular
+React
+TypeScript
+Vite
+🌐 Направления деятельности
+Software Engineering
+Network Engineering
+Backend Development
+Frontend Development
+Database Management
+Разработка современных приложений
+Изучение новых технологий и архитектурных решений
+🎯 Мои цели
+Создавать качественное и масштабируемое программное обеспечение.
+Развиваться в области Software и Network Engineering.
+Изучать новые языки программирования и технологии.
+Работать над интересными Open Source-проектами.
+Совершенствовать навыки системного проектирования и разработки.
+⚡ Девиз
+Code. Build. Connect. Innovate.
+
+Добро пожаловать в мой GitHub! 🚀
