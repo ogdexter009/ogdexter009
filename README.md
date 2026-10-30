@@ -1,47 +1,63 @@
-👋 Привет! Я OG_Dexter
-💻 Software Engineer | 🌐 Network Engineer
+# 👋 Привет! Я OG_Dexter
 
-Я занимаюсь разработкой программного обеспечения и сетевой инженерией. Люблю создавать производительные приложения, разрабатывать backend- и frontend-решения, работать с базами данных и сетевой инфраструктурой.
+### 💻 Software Engineer | 🌐 Network Engineer
 
-🚀 Технологический стек
-🧑‍💻 Языки программирования
-🐍 Python
-💠 C#
-λ Haskell
-🦀 Rust
-⚡ Q# (Quantum Programming)
-🗄️ Базы данных
-PostgreSQL
-MySQL
-MariaDB
-⚙️ Frameworks & Technologies
+Занимаюсь разработкой программного обеспечения и сетевой инженерией. Создаю современные приложения, работаю с базами данных, веб-технологиями и сетевой инфраструктурой.
 
-Backend:
+---
 
-Django
+## 🚀 Технологии и инструменты
 
-Frontend:
+### 💻 Языки программирования
+- Python
+- C#
+- Haskell
+- Rust
+- Q# (Quantum Programming)
 
-Vue.js
-Angular
-React
-TypeScript
-Vite
-🌐 Направления деятельности
-Software Engineering
-Network Engineering
-Backend Development
-Frontend Development
-Database Management
-Разработка современных приложений
-Изучение новых технологий и архитектурных решений
-🎯 Мои цели
-Создавать качественное и масштабируемое программное обеспечение.
-Развиваться в области Software и Network Engineering.
-Изучать новые языки программирования и технологии.
-Работать над интересными Open Source-проектами.
-Совершенствовать навыки системного проектирования и разработки.
-⚡ Девиз
-Code. Build. Connect. Innovate.
+### 🗄️ Базы данных
+- PostgreSQL
+- MySQL
+- MariaDB
 
-Добро пожаловать в мой GitHub! 🚀
+### ⚙️ Frameworks & Technologies
+- Django
+- Vue.js
+- Angular
+- React
+- TypeScript
+- Vite
+
+---
+
+## 🌐 Направления деятельности
+
+- Software Engineering
+- Network Engineering
+- Backend Development
+- Frontend Development
+- Database Management
+- Network Infrastructure
+- Software Architecture
+
+---
+
+## 🎯 Мои цели
+
+- Разработка производительного и масштабируемого программного обеспечения.
+- Изучение новых языков программирования и технологий.
+- Развитие навыков Software Engineering и Network Engineering.
+- Создание современных и надёжных IT-решений.
+- Участие в интересных Open Source проектах.
+
+---
+
+## ⚡ Мой девиз
+
+> Code. Build. Connect. Innovate.
+
+---
+
+### 👨‍💻 Welcome to my GitHub!
+
+**Think. Code. Create. Repeat.** 🚀
